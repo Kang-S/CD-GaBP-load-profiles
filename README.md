@@ -1,2 +1,2 @@
 # CD-GaBP-real-load-profiles
-The complete data set of the 11 groups of load profiles.
+The load profiles used in our papers entitled "A Complex Domain Distributed State Estimator for Power Systems Based on Gaussian Belief Propagation".
